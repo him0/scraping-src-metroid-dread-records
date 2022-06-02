@@ -1,4 +1,4 @@
-# SRC Metroid Dread Scraping
+# Scraping SRC Metroid Dread Records
 
 :warning: This is a work in progress.
 
